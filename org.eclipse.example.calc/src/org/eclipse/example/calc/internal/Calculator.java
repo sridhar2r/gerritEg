@@ -28,6 +28,8 @@ public class Calculator {
 
 	private float value;
 
+	private int calcCount;
+
 	public static String NAME = "Simple Calculator";
 
 	public Calculator(TextProvider textProvider) {
