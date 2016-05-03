@@ -28,8 +28,6 @@ public class Calculator {
 
 	private float value;
 
-	private String dummyVal;
-
 	public static String NAME = "Simple Calculator";
 
 	public Calculator(TextProvider textProvider) {
