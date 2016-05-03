@@ -27,6 +27,8 @@ public class Calculator {
 	private boolean clearText;
 
 	private float value;
+	
+	private String srtVal;
 
 	public static String NAME = "Simple Calculator";
 
