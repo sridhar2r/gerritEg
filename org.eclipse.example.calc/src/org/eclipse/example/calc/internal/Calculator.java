@@ -25,11 +25,9 @@ public class Calculator {
 	private String cmd;
 
 	private boolean clearText;
-	
-	private String bofs;
 
 	private float value;
-	
+
 	private String srtVal;
 
 	public static String NAME = "Simple Calculator";
